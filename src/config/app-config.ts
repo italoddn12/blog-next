@@ -4,5 +4,4 @@ export const POSTS_URL =
 
 export const SITE_NAME = 'italo macedo';
 export const SITE_URL = 'https://protected-coast-85961.herokuapp.com';
-export const SITE_URL_LOCAL =
-  process.env.SITE_URL_LOCAL || 'http://127.0.0.1:3000';
+export const SITE_URL_LOCAL = 'https://musing-snyder-1f281b.netlify.app';
