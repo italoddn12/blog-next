@@ -9,7 +9,6 @@
     "deploy:static": "next build && next export"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^4.1.1",
     "disqus-react": "^1.1.2",
     "next": "12.0.7",
     "react": "17.0.2",
